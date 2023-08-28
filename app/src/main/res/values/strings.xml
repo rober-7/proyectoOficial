@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lista prueba</string>
+
+    <string name="Modelo1">%1$s</string>
+
+    <string name="Modelo2">%1$s</string>
+
+    <string name="Modelo3">%1$s</string>
+
+    <string name="Modelo4">%1$s</string>
+
+    <string name="Modelo5">%1$s</string>
+
+</resources>
